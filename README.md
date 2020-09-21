@@ -43,13 +43,13 @@ The user should be able to:
 ###### App Screenshots
 
 Landing Page
-<img src = "./public/Screenshots/LandingPage.jpg">
+<img src = "public/Screenshots/LandingPage.jpg">
 
 Sort by Alphabetical 
-<img src = "./public/Screenshots/AlphaOrder.jpg">
+<img src = "/public/Screenshots/AlphaOrder.jpg">
 
 Search Specific User
-<img src = "./public/Screenshots/SearchUser.jpg">
+<img src = "../public/Screenshots/SearchUser.jpg">
 
 ## Credits
 
