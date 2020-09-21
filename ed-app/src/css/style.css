@@ -1,0 +1,33 @@
+#header {
+    background-color: cadetblue;
+    height: 100px;
+}
+
+#headerTitle {
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+#search {
+    width: 50%;
+    margin: 20px auto;
+    border-style: dotted;
+}
+
+#searchHelpBlock {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+td {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    border-radius: 50%;
+}
