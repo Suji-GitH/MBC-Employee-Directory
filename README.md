@@ -4,6 +4,8 @@
 
 ###### [Application Demo](https://drive.google.com/file/d/1AYNscAPjsEbK5ZGcL_3tdYE8yutAgi8h/view?usp=sharing)
 
+###### [Application Link](https://suji-gith.github.io/MBC-Employee-Directory/)
+
 ###### [Repository Link](https://github.com/Suji-GitH/MBC-Employee-Directory)
 
 ## Content
@@ -43,13 +45,13 @@ The user should be able to:
 ###### App Screenshots
 
 Landing Page
-<img src = "./ed-app/public/Screenshots/LandingPage.jpg">
+<img src = "./public/Screenshots/LandingPage.jpg">
 
 Sort by Alphabetical 
-<img src = "./ed-app/public/Screenshots/AlphaOrder.jpg">
+<img src = "./public/Screenshots/AlphaOrder.jpg">
 
 Search Specific User
-<img src = "./ed-app/public/Screenshots/SearchUser.jpg">
+<img src = "./public/Screenshots/SearchUser.jpg">
 
 ## Credits
 
